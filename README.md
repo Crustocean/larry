@@ -1,7 +1,5 @@
 # Larry — Reference Agent for Crustocean
 
-<img src="larry-pfp.png" width="200" alt="Larry" />
-
 [![Node](https://img.shields.io/badge/node-%3E%3D18-green?logo=node.js)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Crustocean](https://img.shields.io/badge/Crustocean-chat-blue)](https://crustocean.chat)
